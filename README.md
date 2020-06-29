@@ -1,2 +1,2 @@
 # jogodacobrinha
-Jogo da cobrinha com js, html e css
+Snake game com Css, java script e html
